@@ -152,6 +152,72 @@ color: rgba(0, 0, 0, 0.2);
  font-family: "Inter", sans-serif;
  padding-top: 5px;
 }
+/*  Feedback Section */
+.Feedback-Section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 48px;
+    margin-top: 137px;
+}
+.h1{
+    font-size: 42px;
+    font-weight: bold;
+   font-family: "Raleway", sans-serif;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    gap: 44px;
+}
+.card1{ display: flex;
+    flex-direction: column;
+    gap: 24px;
+    justify-content: start;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 24px;
+    width: 366.67px;
+}
+.title h2{
+     font-family: 'AG Heading', sans-serif;
+   
+}
+.title p{
+    width: 318.67px;
+    color: #1E1E1E;
+    font-weight: 500;
+    margin-top: 8px;
+    font-size: 18px;
+}
+.Reviewer{
+    display: flex;
+    gap: 12px;
+    justify-content: start
+}
+.Reviewer img{
+    border-radius: 50%;
+}
+.bio h4{
+    color: #757575;
+     font-family: 'AG Heading', sans-serif;
+     font-size: 18px;
+}
+.bio p{
+    color: #B3B3B3;
+     font-family: 'AG Heading', sans-serif;
+     font-size: 18px;
+
+}
+
+
+
+
+
+
+
+
+
 
 /* Let-Get-In-Touch-Section */
 .Let-Get-In-Touch-Section{
