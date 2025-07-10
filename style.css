@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inder&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Inder&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
 .font{
   font-family: "Raleway", sans-serif;
@@ -81,11 +84,68 @@ header{
   width: 517px;
  font-family: "Raleway", sans-serif;
 }
+.Left-Side h1{
+    font-size: 42px;
+    color: #252432;
+}
 .btn2{
     width:229px;
+
 }
 .Right-Side img{
     width: 403px;
     height: 328px;
     border-radius: 48px;
 }
+/* Productive-Users-Section */
+.Productive-Users-Section{
+    background-color: rgba(78, 71, 255, 0.1);
+    border-radius: 48px;
+    height: 280px;
+}
+.Productive-Users-Section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  padding-top: 50px;
+}
+.data-with-subtitle{
+    justify-content: center;
+    gap: 167px;
+}
+.data1 h1{
+font-size: 80px;
+color: #4E47FF;
+ font-family: "Inter", sans-serif;
+}
+.data1 p{
+    font-size: 20px;
+color: rgba(0, 0, 0, 0.2);
+ font-family: "Inter", sans-serif;
+ padding-top: 10px;
+}
+.data2 h1{
+font-size: 80px;
+color: #4E47FF;
+ font-family: "Inter", sans-serif;
+ padding-top: 5px;
+}
+.data2 p{
+    font-size: 20px;
+color: rgba(0, 0, 0, 0.2);
+ font-family: "Inter", sans-serif;
+ padding-top: 5px;
+}
+.data3 h1{
+font-size: 80px;
+color: #4E47FF;
+ font-family: "Inter", sans-serif;
+}
+.data3 p{
+    font-size: 20px;
+color: rgba(0, 0, 0, 0.2);
+ font-family: "Inter", sans-serif;
+ padding-top: 5px;
+}
+
