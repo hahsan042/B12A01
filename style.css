@@ -26,6 +26,13 @@
     font-size: 16px;
     border-radius: 5px;
     border: none;
+    cursor: pointer;
+     transition: all 0.3s ease;
+}
+.btn:hover{
+    background-color:#252432;
+      transform: translateY(-2px);
+  box-shadow: 0 8px 12px rgba(0,0,0,0.15);
 }
 .flex{
     display: flex;
@@ -207,18 +214,7 @@ color: rgba(0, 0, 0, 0.2);
     color: #B3B3B3;
      font-family: 'AG Heading', sans-serif;
      font-size: 18px;
-
 }
-
-
-
-
-
-
-
-
-
-
 /* Let-Get-In-Touch-Section */
 .Let-Get-In-Touch-Section{
     margin-top: 92.3px;
@@ -248,6 +244,11 @@ color: rgba(0, 0, 0, 0.2);
     color: #000000;
      font-family: "Inter", sans-serif;
      font-weight:500 ;
+}
+.btn3{
+    margin-top: 15px;
+    width: 497px;
+
 }
 /* footer-section */
 footer{
