@@ -24,7 +24,7 @@
     color: #FFFFFF;
     font-weight: bold;
     font-size: 16px;
-    border-radius: 5px;
+    border-radius: 10px;
     border: none;
     cursor: pointer;
      transition: all 0.3s ease;
@@ -166,6 +166,7 @@ color: rgba(0, 0, 0, 0.2);
     align-items: center;
     gap: 48px;
     margin-top: 137px;
+    padding-bottom: 137px;
 }
 .h1{
     font-size: 42px;
@@ -215,6 +216,41 @@ color: rgba(0, 0, 0, 0.2);
      font-family: 'AG Heading', sans-serif;
      font-size: 18px;
 }
+/* Ready-to-focus-better */
+.Ready-to-focus-better{
+    width:1140px ;
+    height: 630.77px;
+    padding-top: 50px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #fff;
+
+}
+.div1 h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.div2 p{
+    color: rgba(37, 36, 50, 0.5);
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+.btn4{
+    width: 195px;
+    font-weight: 100;
+    font-size: 15px;
+}
+.div4 img{
+    width: 840px;
+    height: 364.77px;
+    border-radius: 50px;
+}
+
 /* Let-Get-In-Touch-Section */
 .Let-Get-In-Touch-Section{
     margin-top: 92.3px;
